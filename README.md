@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my first repository
+I am O blood group, which means I can give to anyone, how cool is that.
